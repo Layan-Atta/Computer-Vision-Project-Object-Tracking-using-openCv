@@ -13,15 +13,10 @@
 تم تنفيذ هذه المهمة بالكامل باستخدام **Python** ومكتبة **OpenCV** على منصة **Google Colab**.
 
 * **الهدف:** تتبع جسم بلون معين في مقطع فيديو.
-* **الفيديو المستخدم:** تم استخدام مقطع فيديو مدته 15 ثانية من [blueballs](https://www.youtube.com/watch?v=T_PYhcHp0JE) نظراً لوضوح الألوان وثباتها، مما يجعله مثالياً لاختبار تتبع الألوان.
+* **الفيديو المستخدم:** تم استخدام مقطع فيديو مدته 15 ثانية من [Animated Moving Blue Glass Balls](https://www.youtube.com/watch?v=T_PYhcHp0JE) نظراً لوضوح الألوان وثباتها، مما يجعله مثالياً لاختبار تتبع الألوان.
 
+![v](output_converted2.gif)
 
-<div align="center">
-
-[![شاهد التطبيق أثناء العمل](https://img.youtube.com/vi/watch?v=T_PYhcHp0JE/maxresdefault.jpg)](https://www.youtube.com/watch?v=T_PYhcHp0JE)
-
-
-</div>
 
 ### خطوات العمل
 
